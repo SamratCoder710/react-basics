@@ -1,7 +1,7 @@
-import reactImg from "../assets/react-core-concepts.png";
-import stateMngImg from "../assets/state-mgmt.png";
+import reactImg from "../../assets/react-core-concepts.png";
+import stateMngImg from "../../assets/state-mgmt.png";
 //CSS module
-import styles from "../styles.module.css";
+import styles from "../../styles.module.css";
 
 export default function () {
   const arr = ["a", "b", "c", "d"];

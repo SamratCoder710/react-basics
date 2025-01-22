@@ -1,7 +1,7 @@
 import Section from "./Section";
-import TabButton from "../TabButton";
+import TabButton from "../../TabButton";
 import { useState } from "react";
-import { EXAMPLES } from "../data";
+import { EXAMPLES } from "../../data";
 
 export default function Examples() {
   const [tabContent, setTabContent] = useState(null);

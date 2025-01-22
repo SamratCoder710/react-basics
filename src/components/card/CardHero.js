@@ -1,6 +1,6 @@
 import Card from "./Card";
 
-function New() {
+function CardHero() {
   return (
     <div id="app">
       <h1>Available Experts</h1>
@@ -27,4 +27,4 @@ function New() {
   );
 }
 
-export default New;
+export default CardHero;
